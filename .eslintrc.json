@@ -1,0 +1,11 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off",
+    "avoidEscape": true,
+    "allowTemplateLiterals": true,
+    "@typescript-eslint/quotes": "off",
+    "indent": "off"
+  }
+}
